@@ -1,3 +1,6 @@
 PC Overview
 
-Knowing the components for your computer is important. This can be useful in the future when you feel like you need an upgrade. Whether this is for Work purposes, or Gaming/Streaming purposes, the components of your computer specifically performs its own task.
+Knowing the components for your computer is important.
+This can be useful in the future when you feel like you need an upgrade. 
+Whether this is for Work purposes, or Gaming/Streaming purposes, the components of your computer specifically performs its own task.
+When upgrading a specific part to increase performance, you need to know what each components do.
