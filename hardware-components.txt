@@ -1,0 +1,9 @@
+Hardware Components
+
+There are several components within a computer. Each component is dedicated to perform a certain task.
+Some of these components include: 
+* Motherboard
+* The Processor (CPU)
+* CPU Cooler
+* Random Access Memory (RAM)
+* 
