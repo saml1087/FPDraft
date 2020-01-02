@@ -1,0 +1,3 @@
+# Setting up the PC
+## Setting up the CPU
+This step is generally the most important

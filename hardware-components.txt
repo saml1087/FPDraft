@@ -9,3 +9,5 @@ Some of these components include:
 * Graphics Card
 * Power Supply (PSU)
 * Hard Disk Drive/Solid State Drive (HDD/SSD)
+* Case 
+Note that these excludes peripherals (keyboards, mouse, etc)
