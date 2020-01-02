@@ -11,3 +11,5 @@ Some of these components include:
 * Hard Disk Drive/Solid State Drive (HDD/SSD)
 * Case 
 Note that these excludes peripherals (keyboards, mouse, etc)
+Most Importantly, Make Sure These Components are COMPATIBLE with Each Other
+Note : In Order to Check Compatibility, check their Specifications in their Description to see if products are listed as COMPATIBLE. Alternatively, there are sites that check for components compatibility such as PC PART PICKER

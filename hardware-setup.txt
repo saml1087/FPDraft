@@ -1,3 +1,17 @@
 # Setting up the PC
-## Setting up the CPU
-This step is generally the most important
+## Installing the CPU
+These steps are very important, as it involves putting the CPU into the Motherboard:
+To Prepare, take out the following,
+*Motherboard
+*CPU
+*CPU Cooler
+Steps:
+1. Place the CPU LIGHTLY into the socket in the motherboard. (Make sure the arrow on the Processor lines up with the arrow on the motherboard)
+2. (OPTIONAL, only if there isn't thermal paste already pre-applied to the cooler) Put a Pea-Sized amount of thermal paste onto the middle of the CPU. The CPU Cooler will spread the paste across the whole surface area.
+3. Place the CPU Cooler onto the CPU. Look for instructions on the CPU Cooler Manuel to see which way it mounts into the motherboard. Note that there are different types of mounts depending on the CPU cooler.
+4. After it's secure, then the installation is finished. Make sure by seeing if the locks are tight.
+- - - - -
+These steps are for installing Memory:
+To prepare, take out the following,
+
+
