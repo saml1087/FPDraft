@@ -6,4 +6,6 @@ Some of these components include:
 * The Processor (CPU)
 * CPU Cooler
 * Random Access Memory (RAM)
-* 
+* Graphics Card
+* Power Supply (PSU)
+* Hard Disk Drive/Solid State Drive (HDD/SSD)
